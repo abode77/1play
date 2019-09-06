@@ -1,6 +1,6 @@
-owner=516473846983950336
+owner=601918280159985666
 prefix=1
-game=play
+game=SPECIAL
 stayinchannel=true
 songinstatus=false
-token=NTMyOTM4ODQ4ODA4ODYxNzE5.DxjzfA.Nss_r9BRZ1VEpyeHgketTem5q_o
+token=NjE5NTA5MTkxMDQ4MTY3NDU0.XXJgCA.qeWWTwz3Hxln99kz1RU7zXz8kXw
